@@ -1,0 +1,3 @@
+Kamisato Ayaka,19916,1768,856,47.8,189.2,61.6,Cryo,DPS
+Omtopi,14778,2011,739,62.6,68.1,30.0,Anemo,DPS
+Xingqiu,22101,1081,626,36.9,112.2,0,Hydro,SubDPS
